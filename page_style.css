@@ -1,0 +1,36 @@
+/* Style the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the anchor link */
+a {
+    font-size: xx-large;
+    text-decoration: none;
+    color: #007bff;
+    display: block; 
+    text-align: center; 
+    margin: 20px auto; 
+}
+
+/* Style the anchor link on hover */
+a:hover {
+    text-decoration: underline;
+}
+
+/* Style the container div */
+div {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Style the image */
+img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}

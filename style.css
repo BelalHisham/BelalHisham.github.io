@@ -1,0 +1,39 @@
+/* Style the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the h1 */
+h1 {
+    text-align: center;
+    font-size: 28px;
+    color: #333;
+    margin-top: 5rem;
+}
+
+/* Style the h2 */
+h2 {
+    text-align: center;
+    font-size: 24px;
+    color: #555;
+}
+
+/* Style the h3 within ul */
+ul a h3 {
+    font-size: 18px;
+    color: #007bff;
+    text-decoration: none;
+}
+
+/* Add some margin between the h3 elements */
+ul a h3 {
+    margin: 2rem 0;
+}
+
+/* Style links within h3 */
+ul a h3:hover {
+    text-decoration: underline;
+}
